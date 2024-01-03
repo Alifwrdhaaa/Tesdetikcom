@@ -176,8 +176,8 @@ body {
     width: 100%;
     padding-left: 1.7rem;
     padding-right: 1rem;
-    padding-top: 28rem;
-    margin-bottom: -18rem;
+    padding-top: 25rem;
+    margin-bottom: 5rem;
 }
 
 .grid-cols-2 {
@@ -390,12 +390,6 @@ body {
     padding: 20px;
     width: 300px;
     box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.3);
-    transition: transform 0.3s ease-in-out;
-}
-
-.review-card:hover {
-    transform: scale(1.1);
-    /* Scale up on hover */
 }
 
 .img-area {
